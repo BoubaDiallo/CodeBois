@@ -1,0 +1,49 @@
+.nav{
+  margin-top: 10px;
+  position: fixed;
+}
+
+h1{
+  padding: 20px;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  padding: 10px;
+}
+
+li a {
+  color: black;
+  font-size: 16px;
+}
+
+#about {
+  padding-top: 10px;
+  border-bottom: 1px solid black;
+}
+
+#projects {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+#squad {
+  text-align: center;
+  padding-bottom: 350px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+#squad img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+#contact {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-left: 10px;
+  margin-right: 10px;
+}
